@@ -65,10 +65,10 @@ Both models successfully predicted employee attrition. The Random Forest model a
 
 ## Model Comparison
 
-                    Decision Tree	                                     |                                        Random Forest
-Easy to understand and interpret. It trains quickly but is more        |          Provides higher accuracy and better generalization. By combining multiple 
-prone to overfitting, which may reduce its performance on              |          decision trees, it produces more stable and reliable predictions while reducing 
-unseen data.                                                           |          the risk of overfitting.
+| **Decision Tree**                                 |                             **Random Forest**                                    | 
+| :-----------------------------------------------: | :------------------------------------------------------------------------------: | 
+| It is easy to understand and interpret. It trains quickly but is more to overfitting, which may reduce its performance on unseen data. | Provides higher accuracy and better generalization. By combining multiple decision trees, it produces more stable and reliable predictions while reducing the risk of overfitting.|
+
 
 ---
 
